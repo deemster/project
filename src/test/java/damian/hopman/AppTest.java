@@ -28,6 +28,12 @@ public class AppTest
         }
     }
 
+    public void negatiefKills(){
+        if(death >= 0 ) {
+            assertFalse();
+        }
+    }
+
     @Test
     public void zelfdeNaam(){
         a = gebruikersnaam;
