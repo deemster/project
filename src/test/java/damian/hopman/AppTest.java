@@ -28,7 +28,7 @@ public class AppTest
         }
     }
 
-    public void negatiefKills(){
+    public void deathsKills(){
         if(death >= 0 ) {
             assertFalse();
         }
