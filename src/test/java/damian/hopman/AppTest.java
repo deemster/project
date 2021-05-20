@@ -33,13 +33,5 @@ public class AppTest
             assertFalse();
         }
     }
-
-    @Test
-    public void zelfdeNaam(){
-        a = gebruikersnaam;
-
-        if(){
-
-    }
 }
 
