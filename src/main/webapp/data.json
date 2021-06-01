@@ -1,0 +1,40 @@
+{"gebruikers":[
+    {
+        "id": "1",
+        "naam": "damian",
+        "wachtwoord": "welkom123"
+    },
+
+    {
+        "id": "2",
+        "naam": "tim",
+        "wachtwoord": "welkom123"
+
+    },
+
+    {
+        "id": "3",
+        "naam": "Jelle",
+        "wachtwoord": "welkom123"
+
+    },
+
+    {
+        "id": "4",
+        "naam": "kevin",
+        "wachtwoord": "welkom123"
+
+    }
+],
+"games":[
+    {
+        "naam": "blackops"
+    },
+    {
+        "naam": "necromunda"
+    },
+    {
+        "naam": "titanfall"
+    }
+    ]}
+
